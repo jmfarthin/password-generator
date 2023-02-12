@@ -13,18 +13,22 @@ This project adds functionality to a random password generator which the site pr
 
 ## Usage
 
-To view portfolio website, visit: https://jmfarthin.github.io/password-generator/
+To view password generator website, visit: https://jmfarthin.github.io/password-generator/
 
 Repository: https://github.com/jmfarthin/password-generator.git
 
+To generate a new password, click on the 'generate password' button and follow the prompts.
 
 ### Screenshots of deployed website:
 
-![Portfolio website fullscreen 1](./assets/images/farthing-portfolio1.png)
-![Porfolio website fullscreen 2](./assets/images/farthing-portfolio2.png)
-![Porfolio website fullscreen 3](./assets/images/farthing-portfolio3.png)
-![Porfolio website fullscreen 4](./assets/images/farthing-portfolio4.png)
-![Porfolio website mobile](./assets/images/farthing-portfolio5.png)
+![Password Generator website 1](./assets/images/password-generator1.png)
+![Password Generator website 2](./assets/images/password-generator2.png)
+![Password Generator website 3](./assets/images/password-generator3.png)
+![Password Generator website 4](./assets/images/password-generator4.png)
+![Password Generator website 5](./assets/images/password-generator5.png)
+![Password Generator website 6](./assets/images/password-generator6.png)
+![Password Generator website 7](./assets/images/password-generator7.png)
+![Password Generator website 8](./assets/images/password-generator8.png)
 
 ## Credits
 
